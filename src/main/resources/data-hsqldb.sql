@@ -1,0 +1,1 @@
+INSERT INTO DOCUMENT (NAME, CONTENT, CREATED_ON, LAST_UPDATED_ON) VALUES ('Test Document 1', 'This is a test document', NOW(), NOW());
